@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<shop>
+	<name>La tienda de los cachibaches</name>
+	<products>
+		<product id="1">
+			<title>Headphones</title>
+			<price badge="Euro">29.99</price>
+			<stock color="blue" storage="22">22</stock>
+		</product>
+		<product id="2">
+			<title>One Piece Vol.100</title>
+			<price badge="Dollar">14.95</price>
+			<stock color="red" storage="40">21</stock>
+		</product>
+		<product id="3">
+			<title>Lámpara multifunción</title>
+			<price badge="Euro">30</price>
+			<stock color="Black">21</stock>
+		</product>
+	</products>
+</shop>
